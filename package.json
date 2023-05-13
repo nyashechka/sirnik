@@ -1,0 +1,43 @@
+{
+  "name": "sirnik",
+  "version": "1.0.0",
+  "description": "lolik ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyashechka/sirnik.git"
+  },
+  "keywords": [
+    "chat",
+    "js",
+    "superchat",
+    "socket",
+    "javascript",
+    "html",
+    "andrey",
+    "css",
+    "minecraft",
+    "roblox",
+    "2017",
+    "ilon_mask"
+  ],
+  "author": "dedoomer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyashechka/sirnik/issues"
+  },
+  "homepage": "https://github.com/nyashechka/sirnik#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7",
+    "socket.io": "^4.6.1",
+    "sqlite": "^4.2.0",
+    "sqlite3": "^5.1.6"
+  }
+}
